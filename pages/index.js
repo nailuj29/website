@@ -6,8 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Nailuj29 Site</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="og:title" content="Nailuj29 Site"/>
+        <meta name="og:url" content="https://nailuj29gaming.com" />
+        <meta name="og:type" content="website" />
+        <meta name="og:image" content="https://static-cdn.jtvnw.net/jtv_user_pictures/96195cfe-f99c-48aa-a15a-56d3984e8fc6-profile_image-70x70.png" />
       </Head>
 
       <main>
