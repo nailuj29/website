@@ -17,7 +17,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my website" />
         <p className="description">
-          I am nailuj. I make <a href="/stuff-ive-made">stuff</a> sometimes
+          I am nailuj. I make <a href="/stuff">stuff</a> sometimes
         </p>
         <h2>Crypto:</h2>
         RVN: <pre>REMmZ47rwFZPumajKJvqVgFzZqwnz7hyg6</pre> <br />
