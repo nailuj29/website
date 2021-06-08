@@ -20,9 +20,9 @@ export default function Home() {
           I am nailuj. I make <a href="/stuff">stuff</a> sometimes
         </p>
         <h2>Crypto:</h2>
-        RVN: <pre>REMmZ47rwFZPumajKJvqVgFzZqwnz7hyg6</pre> <br />
-        DOGE: <pre>DFUiTucjnJp1kvbF3F4TF7CR2nxS74SGMy</pre> <br />
-        ETH: <pre>0xfABa9C1c9c36fC0b2A4F90a31eaA54Db3c44eE2B</pre> <br />
+        RVN: <code>REMmZ47rwFZPumajKJvqVgFzZqwnz7hyg6</code> <br />
+        DOGE: <code>DFUiTucjnJp1kvbF3F4TF7CR2nxS74SGMy</code> <br />
+        ETH: <code>0xfABa9C1c9c36fC0b2A4F90a31eaA54Db3c44eE2B</code> <br />
         <br />
         <Footer />
       </main>
