@@ -20,6 +20,7 @@ export default function Stuff() {
             <ul>
                 <li><a href="https://github.com/nailuj29gaming/paste">Nailujbin</a></li>
                 <li><a href="https://github.com/SpiderWren/SpiderWren">SpiderWren</a></li>
+                <li><a href="https://github.com/nailuj29gaming/website">This site</a></li>
             </ul>
             <h2>Discord Bots</h2>
             <ul>
